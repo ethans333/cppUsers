@@ -1,4 +1,4 @@
-# cppUsers
+# cppUsers 🤖
 Create user classes and save their information to a text file.
 
 ## The ```User``` class and its corresponding functions:
